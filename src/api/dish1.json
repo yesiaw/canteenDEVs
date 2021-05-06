@@ -1,0 +1,26 @@
+[
+    {
+       "name":"Картофельный суп с фрикадельками",
+       "id":1,
+       "price":100,
+       "categoryImg":"https://gotovim-doma.ru/images/recipe/0/71/0718e9e896655ed38dac4cb2aff6e13d_m.jpg"
+    },
+    {
+       "name":"Венгерский суп-гуляш",
+       "id":2,
+       "price":10,
+       "categoryImg":"https://gotovim-doma.ru/images/recipe/6/40/64098f9e72a9cc65260d1e920f68d194_m.jpg"
+    },
+    {
+       "name":"Суп-пюре с цуккини (молодыми кабачками)",
+       "id":3,
+       "price":40,
+       "categoryImg":"https://gotovim-doma.ru/images/recipe/c/38/c38a5b7b8b2cd87cd233882de464eb59_m.jpg"
+    },
+    {
+       "name":"Щавелевый суп",
+       "id":4,
+       "price":50,
+       "categoryImg":"https://gotovim-doma.ru/images/recipe/b/8c/b8c74853c154749d3ade9d6d7a4bc9eb_m.jpg"
+    }
+ ]

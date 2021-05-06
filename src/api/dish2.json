@@ -1,0 +1,17 @@
+[
+    {
+       "categoryName":"Сытные картофельные драники с луком",
+       "id":1,
+       "categoryImg":"https://st.vkuso.ru/data/cache/thumb/d0/dac50d05d5e4ed0_250x187.jpg"
+    },
+    {
+       "categoryName":"Куриное филе с чесноком в сметане",
+       "id":2,
+       "categoryImg":"https://st.vkuso.ru/data/cache/thumb/df/18730cd70e742df_250x187.jpg"
+    },
+    {
+       "categoryName":"Жаркое с овощами и курицей по-домашнему",
+       "id":3,
+       "categoryImg":"https://st.vkuso.ru/data/cache/thumb/56/582e0672722a856_250x187.jpg"
+    }
+ ]

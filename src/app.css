@@ -1,0 +1,26 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'Darco';
+    src: url('./assets/fonts/5_Darco_Demi.woff2') format('woff2'),
+        url('./assets/fonts/5_Darco_Demi.woff') format('woff'),
+        url('./assets/fonts/5_Darco_Demi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BebasNeuePro';
+    src: url('./assets/fonts/BebasNeuePro-SemiExpRegular.woff2') format('woff2'),
+        url('./assets/fonts/BebasNeuePro-SemiExpRegular.woff2') format('woff'),
+        url('./assets/fonts/BebasNeuePro-SemiExpRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+html, body {font-family:'BebasNeuePro';}
