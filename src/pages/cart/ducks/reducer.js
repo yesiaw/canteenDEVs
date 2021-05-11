@@ -22,6 +22,7 @@ const setRemoveFromeCart = (cart) => ({ type: REMOVE_FROM_CART, payload: cart })
 
 // Functions=======================================================================
 export const addToCart = (product) => {
+  
 	return async (dispatch, getState) => {
     const cartItems = getState().cart.cartItems.slice()
     let alreadyExists = false;

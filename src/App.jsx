@@ -16,7 +16,7 @@ const App = () => {
                     <Route exact path='/' component={Main} />
                     <Route exact path='/basket' component={Cart} />
                     <Route exact path='/about' component={AboutUs} />
-                    <Route path='/:id' component={Dishes} />
+                    <Route path='/category/:id' component={Dishes} />
                 </Switch>
             </MuiThemeProvider>
             </div>

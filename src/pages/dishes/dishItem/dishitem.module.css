@@ -1,0 +1,9 @@
+.DishItemContainer{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 10px 0;
+    background-color: burlywood;
+}

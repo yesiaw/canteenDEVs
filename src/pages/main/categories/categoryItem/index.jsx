@@ -18,11 +18,12 @@ const useStyles = makeStyles({
 
 const CategoryItem = (props) => {
   const category = props.category;
+  // debugger
     const classes = useStyles();
    
     return (
       <Grid item xs={6} align='center'>
-        <NavLink to={`${category.id}`} style={{textDecoration: 'none'}}>
+        <NavLink to={`/category/${category.id}`} style={{textDecoration: 'none'}}>
         <Card className={classes.root}>
           <CardActionArea>
             <CardMedia

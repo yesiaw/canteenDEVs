@@ -29,6 +29,8 @@ export const getDish = (id) => {
 	return async (dispatch) => {
 		dispatch(setIsFetching(true));
 		const response = await getDishes(id);
-		dispatch(setDish(response.data));
+		dispatch(setDish(response));
+		debugger
 	};
 };
+

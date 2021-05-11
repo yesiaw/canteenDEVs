@@ -12,12 +12,20 @@ export const getCategory = async () => {
 	let res = {}
 	res.data = categories;
 	return res;
+
 };
+
+
+
 
 export const getDishes = async (id) => {
 	// const res = await instance.get(`categories/${id}`);
 	let res = {}
-	res.data = dish1;
+	
+	res = categories.find((el) => {
+		return el.id == id
+	});
 
+	
 	return res;
 };
