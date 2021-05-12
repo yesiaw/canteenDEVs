@@ -1,9 +1,73 @@
 .DishItemContainer{
-    width: 200px;
-    height: 100px;
+    width: 90%;
+    height: auto;
+    margin: 10px;
+
+    /* background-color: burlywood; */
+    /* background: rgb(230, 231, 232);
+    border-radius: 10px; */
+}
+.dishImage{
+    
+    width: auto;
+    height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 10px 0 10px 0;
-    background-color: burlywood;
+    max-height: 150px;
+    border-radius: 15px;
+    overflow: hidden;
+    /* background-color: aquamarine; */
+    
+}
+.dishName{
+    width: 100%;
+    height: auto;
+    margin: 5px 0 5px 0;
+    font-size: 20px;
+    color: rgba(31, 57, 50, 1);
+    /* background-color: beige; */
+}
+.dishweight{
+    display: flex;
+    align-items: center;
+    width: 50px;
+    height: 20px;
+    margin: 0 0 5px 0;
+    /* background-color: aquamarine; */
+}
+.dishstructure{
+    width: 100%;
+    height: auto;
+    margin: 0 0 5px 0;
+    color: rgba(116, 116, 116, 1);
+    /* background-color: bisque; */
+}
+.dishsCost{
+    width: 150px;
+    height: auto;
+    max-height: 20px;
+    margin: 0 0 5px 0;
+    font-size: 20px;
+    font-weight: 600;
+    /* background-color: blueviolet; */
+}
+.doubleBlock{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+}
+.dishsAddButton{
+    all: unset;
+    background: #1F3932;
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
 }

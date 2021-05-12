@@ -13,7 +13,7 @@ const App = () => {
             <div style={{overflowX:'hidden'}}>
             <MuiThemeProvider theme={THEME}>
                 <Switch>
-                    <Route exact path='/' component={Main} />
+                    <Route exact path='/category' component={Main} />
                     <Route exact path='/basket' component={Cart} />
                     <Route exact path='/about' component={AboutUs} />
                     <Route path='/category/:id' component={Dishes} />

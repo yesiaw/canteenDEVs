@@ -8,6 +8,7 @@ const instance = axios.create({
 });
 
 export const getCategory = async () => {
+	// debugger
 	// const res = await instance.get(`categories`);
 	let res = {}
 	res.data = categories;

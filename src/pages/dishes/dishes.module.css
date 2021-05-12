@@ -1,0 +1,22 @@
+.dishesName{
+    width: auto;
+    height: auto;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.DishItemContainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.generalContainer{
+    padding-top: 90px;
+}
+.ContainerForHeader{
+    width: 100%;
+    position: fixed;
+    background-color: white;
+}

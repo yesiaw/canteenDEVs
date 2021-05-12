@@ -55,41 +55,177 @@
    {
       "name": "Шашлыки",
       "id": "3",
-      "photo": "https://www.cheltv.ru/wp-content/uploads/2020/10/shashlyk-komm1.jpeg"
+      "photo": "https://www.cheltv.ru/wp-content/uploads/2020/10/shashlyk-komm1.jpeg",
+      "dishes": [
+         {
+            "name": "Сытные картофельные драники с луком",
+            "id": 1,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/d0/dac50d05d5e4ed0_250x187.jpg"
+         },
+         {
+            "name": "Куриное филе с чесноком в сметане",
+            "id": 2,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/df/18730cd70e742df_250x187.jpg"
+         },
+         {
+            "name": "Жаркое с овощами и курицей по-домашнему",
+            "id": 3,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/56/582e0672722a856_250x187.jpg"
+         }
+      ]
    },
    {
       "name": "Гарниры",
       "id": "4",
-      "photo": "http://cafe-caramel.ru/wp-content/uploads/2016/07/q4guihbr.jpg"
+      "photo": "http://cafe-caramel.ru/wp-content/uploads/2016/07/q4guihbr.jpg",
+      "dishes": [
+         {
+            "name": "Сытные картофельные драники с луком",
+            "id": 1,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/d0/dac50d05d5e4ed0_250x187.jpg"
+         },
+         {
+            "name": "Куриное филе с чесноком в сметане",
+            "id": 2,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/df/18730cd70e742df_250x187.jpg"
+         },
+         {
+            "name": "Жаркое с овощами и курицей по-домашнему",
+            "id": 3,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/56/582e0672722a856_250x187.jpg"
+         }
+      ]
    },
    {
       "name": "Салаты",
       "id": "5",
-      "photo": "https://2recepta.com/recept/salat-s-pekinskoy-kapystoy/salat-s-pekinskoy-kapystoy.jpg"
+      "photo": "https://2recepta.com/recept/salat-s-pekinskoy-kapystoy/salat-s-pekinskoy-kapystoy.jpg",
+      "dishes": [
+         {
+            "name": "Сытные картофельные драники с луком",
+            "id": 1,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/d0/dac50d05d5e4ed0_250x187.jpg"
+         },
+         {
+            "name": "Куриное филе с чесноком в сметане",
+            "id": 2,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/df/18730cd70e742df_250x187.jpg"
+         },
+         {
+            "name": "Жаркое с овощами и курицей по-домашнему",
+            "id": 3,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/56/582e0672722a856_250x187.jpg"
+         }
+      ]
    },
    {
       "name": "Закуски",
       "id": "6",
-      "photo": "https://img.iamcook.ru/2019/upl/recipes/middle/u839-3a079c8959a10e0c562b91be921bb4a6.JPG"
+      "photo": "https://img.iamcook.ru/2019/upl/recipes/middle/u839-3a079c8959a10e0c562b91be921bb4a6.JPG",
+      "dishes": [
+         {
+            "name": "Сытные картофельные драники с луком",
+            "id": 1,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/d0/dac50d05d5e4ed0_250x187.jpg"
+         },
+         {
+            "name": "Куриное филе с чесноком в сметане",
+            "id": 2,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/df/18730cd70e742df_250x187.jpg"
+         },
+         {
+            "name": "Жаркое с овощами и курицей по-домашнему",
+            "id": 3,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/56/582e0672722a856_250x187.jpg"
+         }
+      ]
    },
    {
       "name": "Хлеб",
       "id": "7",
-      "photo": "http://www.ust-kut24.ru/wp-content/uploads/%D1%85%D0%BB%D0%B5%D0%B1-1.jpg"
+      "photo": "http://www.ust-kut24.ru/wp-content/uploads/%D1%85%D0%BB%D0%B5%D0%B1-1.jpg",
+      "dishes": [
+         {
+            "name": "Сытные картофельные драники с луком",
+            "id": 1,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/d0/dac50d05d5e4ed0_250x187.jpg"
+         },
+         {
+            "name": "Куриное филе с чесноком в сметане",
+            "id": 2,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/df/18730cd70e742df_250x187.jpg"
+         },
+         {
+            "name": "Жаркое с овощами и курицей по-домашнему",
+            "id": 3,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/56/582e0672722a856_250x187.jpg"
+         }
+      ]
    },
    {
       "name": "Соусы",
       "id": "8",
-      "photo": "https://skazka11.ru/small/tovar/img-1533-smetana.jpg"
+      "photo": "https://skazka11.ru/small/tovar/img-1533-smetana.jpg",
+      "dishes": [
+         {
+            "name": "Сытные картофельные драники с луком",
+            "id": 1,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/d0/dac50d05d5e4ed0_250x187.jpg"
+         },
+         {
+            "name": "Куриное филе с чесноком в сметане",
+            "id": 2,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/df/18730cd70e742df_250x187.jpg"
+         },
+         {
+            "name": "Жаркое с овощами и курицей по-домашнему",
+            "id": 3,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/56/582e0672722a856_250x187.jpg"
+         }
+      ]
    },
    {
       "name": "Десерты",
       "id": "9",
-      "photo": "https://foodandmood.com.ua/i/71/06/45/710645/6baef5dcecac888914269d13c2c5e090-quality_75Xresize_crop_1Xallow_enlarge_0Xw_740Xh_493.jpg"
+      "photo": "https://foodandmood.com.ua/i/71/06/45/710645/6baef5dcecac888914269d13c2c5e090-quality_75Xresize_crop_1Xallow_enlarge_0Xw_740Xh_493.jpg",
+      "dishes": [
+         {
+            "name": "Сытные картофельные драники с луком",
+            "id": 1,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/d0/dac50d05d5e4ed0_250x187.jpg"
+         },
+         {
+            "name": "Куриное филе с чесноком в сметане",
+            "id": 2,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/df/18730cd70e742df_250x187.jpg"
+         },
+         {
+            "name": "Жаркое с овощами и курицей по-домашнему",
+            "id": 3,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/56/582e0672722a856_250x187.jpg"
+         }
+      ]
    },
    {
       "name": "Напитки",
       "id": "10",
-      "photo": "https://ubr.ua/img/article/18753/68_m2.jpg"
+      "photo": "https://ubr.ua/img/article/18753/68_m2.jpg",
+      "dishes": [
+         {
+            "name": "Сытные картофельные драники с луком",
+            "id": 1,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/d0/dac50d05d5e4ed0_250x187.jpg"
+         },
+         {
+            "name": "Куриное филе с чесноком в сметане",
+            "id": 2,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/df/18730cd70e742df_250x187.jpg"
+         },
+         {
+            "name": "Жаркое с овощами и курицей по-домашнему",
+            "id": 3,
+            "categoryImg": "https://st.vkuso.ru/data/cache/thumb/56/582e0672722a856_250x187.jpg"
+         }
+      ]
    }
 ]

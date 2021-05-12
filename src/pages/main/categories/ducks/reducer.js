@@ -19,11 +19,11 @@ export default function categoryReducer(state = initialState, action) {
 	}
 }
 
-export const setCategory = (category) => ({
+const setCategory = (category) => ({
 	type: SET_CATEGORY,
 	payload: category,
 });
-export const setIsFetching = (bool) => ({
+const setIsFetching = (bool) => ({
 	type: SET_IS_FETCHING,
 	payload: bool,
 });

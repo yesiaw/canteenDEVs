@@ -8,7 +8,7 @@ const Main = () => {
 	return (
 		<>
 			<Header />
-			<div style={{ margin: "0.6rem" }}>
+			<div style={{ margin: "0.6rem"}}>
 				<Banner/>
 				<Categories/>
 				<About/>

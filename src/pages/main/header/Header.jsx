@@ -13,7 +13,7 @@ const useStyles = makeStyles({
   newColor: {
     "& .MuiBadge-colorError": {
       backgroundColor:'#000',
-      color:'#fff'
+      color:'#fff',
     }
   },
 });
@@ -27,7 +27,7 @@ export default function Header() {
       <AppBar position="static" style={{backgroundColor:'#db2812'}}>
         <Toolbar style={{width:'95%', display:'flex', justifyContent:'space-between'}}>
          <IconButton edge='start'>
-          <NavLink to='/' style={{textDecoration: 'none', color:'#fff'}}>
+          <NavLink to='/category' style={{textDecoration: 'none', color:'#fff'}}>
           <div style={{fontFamily:'Darco', color:'#fff', fontWeight:'bold'}}>
               Habit
             </div>

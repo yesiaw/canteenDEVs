@@ -24,7 +24,7 @@ const Categories = () => {
         Меню
       </Typography>
       <Grid container spacing={4} alignItems="center" >
-      {isFetching === false ? categories.map(category => <CategoryItem category={category} key={category.id}/> ) : <CircularProgress size={60} style={{display:'block', margin:'4rem auto'}} /> }
+      {isFetching === false ? categories.map(category => <CategoryItem id = {category.id} category={category} key={category.id}/> ) : <CircularProgress size={60} style={{display:'block', margin:'4rem auto'}} /> }
       </Grid>
       </>
     )

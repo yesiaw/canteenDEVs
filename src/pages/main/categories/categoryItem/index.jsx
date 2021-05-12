@@ -17,8 +17,8 @@ const useStyles = makeStyles({
 });
 
 const CategoryItem = (props) => {
+
   const category = props.category;
-  // debugger
     const classes = useStyles();
    
     return (
